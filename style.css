@@ -1,0 +1,22 @@
+#contact iframe
+{
+    width: 100%;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text img{
+    width: 35%;
+} 
+.movie_text span{
+    color: gold;
+}
+.book img{
+    width: 250px;
+}
